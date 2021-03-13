@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Domestic Conferences  （国内学会）
+# Domestic Conferences -Non Reviewed- （国内学会）
 
 1. **中田亘**，郡山知樹，高道真之介，井島 勇祐，増村 亮，猿渡 洋，"言語モデルによる文横断情報を用いたオーディオブック音声合成の検討" 日本音響学会2021年春季研究発表会講演論文集, *-**-*, 2021.
 1. **中田亘**，土田泰子，外山茂浩，"深層学習を用いた感情解析システムによる集中度の定量化" [PDF](http://www.interaction-ipsj.org/proceedings/2020/data/pdf/2P-80.pdf)  情報処理学会インタラクション 2020.
