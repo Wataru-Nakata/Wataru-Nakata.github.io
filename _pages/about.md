@@ -15,7 +15,9 @@ B.S. Junior Student at Saruwatari Lab, UTokyo.
 
 # Academic Backgrounds
 
-2020-Current B.S at Systems Innovation, Faculity of Engineering, The University of Tokyo
+2020-Current B.E at Systems Innovation, Faculity of Engineering, The University of Tokyo
 
 2014-2020 Electronic Control Engineering, National Institute of Technology, Nagaoka College
 
+# Contact
+Contact me through twitter
