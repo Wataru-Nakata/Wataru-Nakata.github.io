@@ -23,13 +23,15 @@ Audiobook Speech Synthesis using Cross Sentence Information by Language Models
 ---
 
 深層学習を用いた感情解析システムによる集中度の定量化  
-[PDF](http://www.interaction-ipsj.org/proceedings/2020/data/pdf/2P-80.pdf)
+[PDF](http://www.interaction-ipsj.org/proceedings/2020/data/pdf/2P-80.pdf)  
 情報処理学会インタラクション2020  
 ---
+
 深層学習を用いた授業における学生の感情の可視化
-Visualization of Student's Emotion in Classroom using Deep Learning
+Visualization of Student's Emotion in Classroom using Deep Learning  
 令和元年 高専シンポジウム
 ---
+
 深層学習を用いた定量的な授業評価方法の検討  
 Consideration regarding quantitative evaluation method for lectures using deep learning  
-令和元年（第29回）電気学会東京支部新潟支所研究発表会
+令和元年（第29回）電気学会東京支部新潟支所研究発表会  
