@@ -2,6 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Awards"
+    url: /awards/
 publications:
   - title: "Publications"
     url: /publications/
+  - title: "Awards"
+    url: /awards/
+awards:
+  - title: "Publications"
+    url: /publications/
+  - title: "Awards"
+    url: /awards/
