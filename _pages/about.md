@@ -12,6 +12,7 @@ B.S. Junior Student at Saruwatari Lab, UTokyo.
 * Speech Synthesis
 * Natural Language Processing
 * Deep Learning
+
 # Academic Backgrounds
 
 2020-Current B.S at Systems Innovation, Faculity of Engineering, The University of Tokyo
