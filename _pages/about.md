@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Speech Synthesis researcher at Saruwatari Lab, UTokyo.
+B.S. Junior Student at Saruwatari Lab, UTokyo.
 # Academic Backgrounds
 
 2020-Current B.S at Systems Innovation, Faculity of Engineering, The University of Tokyo
