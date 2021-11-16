@@ -15,10 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 # International Conferences 
-1. **Wataru Nakata**, Tomoki Koriyama, Shinnosuke Takamichi, Naoko Tanji, Yusuke Ijima, Ryo Masumura and Hiroshi Saruwatari, "Audiobook Speech Synthesis Conditioned by Cross-Sentence Context-Aware Word Embeddings," Proc. The 11th ISCA SSW, Online, Aug. 2021. [SpeechSmaples](https://wataru-nakata.github.io/posts/2021/05/01/ssw11)
+1. **Wataru Nakata**, Tomoki Koriyama, Shinnosuke Takamichi, Naoko Tanji, Yusuke Ijima, Ryo Masumura and Hiroshi Saruwatari, "Audiobook Speech Synthesis Conditioned by Cross-Sentence Context-Aware Word Embeddings," Proc. The 11th ISCA SSW, Online, Aug. 2021. [paper](https://www.isca-speech.org/archive/ssw_2021/nakata21_ssw.html)[SpeechSmaples](https://wataru-nakata.github.io/posts/2021/05/01/ssw11)
 
 # Domestic Conferences -Non Reviewed- （国内学会）
-1. **中田亘**，郡山知樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"文横断コンテキストを用いた日本語オーディオブック音声合成の評価" 日本音響学会2021年秋季研究発表会講演論文集, 1-3-8, 2021. 
+1. **中田亘**，郡山知樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"文横断コンテキストを用いた日本語オーディオブック音声合成の評価" 日本音響学会2021年秋季研究発表会講演論文集, 1-3-8, 2021. [PDF](/files/asja2021_nakata.pdf)
 1. 高道慎之介，**中田亘**，郡山知樹，丹治尚子，井島勇祐，増村亮，猿渡洋，"J-KAC：日本語オーディオブック・紙芝居朗読音声コーパス," 情報処理学会研究報告，2021.
 1. **中田亘**，郡山知樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"言語モデルによる文横断情報を用いたオーディオブック音声合成の検討" 日本音響学会2021年春季研究発表会講演論文集, *-**-*, 2021. [PDF](/files/asj2021_nakata_presen.pdf)
 1. **中田亘**，土田泰子，外山茂浩，"深層学習を用いた感情解析システムによる集中度の定量化" 情報処理学会インタラクション 2020.[PDF](http://www.interaction-ipsj.org/proceedings/2020/data/pdf/2P-80.pdf)
