@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 # International Conferences 
-1. **Wataru Nakata**, Tomoki Koriyama, Shinnosuke Takamichi, Naoko Tanji, Yusuke Ijima, Ryo Masumura and Hiroshi Saruwatari, "Audiobook Speech Synthesis Conditioned by Cross-Sentence Context-Aware Word Embeddings," Proc. The 11th ISCA SSW, Online, Aug. 2021. [paper](https://www.isca-speech.org/archive/ssw_2021/nakata21_ssw.html)[SpeechSmaples](https://wataru-nakata.github.io/posts/2021/05/01/ssw11)
+1. **Wataru Nakata**, Tomoki Koriyama, Shinnosuke Takamichi, Naoko Tanji, Yusuke Ijima, Ryo Masumura and Hiroshi Saruwatari, "Audiobook Speech Synthesis Conditioned by Cross-Sentence Context-Aware Word Embeddings," Proc. The 11th ISCA SSW, Online, Aug. 2021. [paper](https://www.isca-speech.org/archive/ssw_2021/nakata21_ssw.html)  [SpeechSmaples](https://wataru-nakata.github.io/posts/2021/05/01/ssw11)
 
 # Domestic Conferences -Non Reviewed- （国内学会）
 1. **中田亘**，郡山知樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"文横断コンテキストを用いた日本語オーディオブック音声合成の評価" 日本音響学会2021年秋季研究発表会講演論文集, 1-3-8, 2021. [PDF](/files/asja2021_nakata.pdf)
