@@ -19,6 +19,7 @@ author_profile: true
 
 # Preprints
 1. Shinnosuke Takamichi, **Wataru Nakata**, Naoko Tanji, Hiroshi Saruwatari, "J-MAC: Japanese multi-speaker audiobook corpus for speech synthesis," arXiv 2201.10896, Jan. 2022.
+
 # Domestic Conferences -Non Reviewed- （国内学会）
 
 1. **中田亘**，郡山知樹，齋藤 佑樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"キャラクタ分散表現を用いた演じ分けを実現するオーディオブック音声合成" 日本音響学会2022年春季研究発表会講演論文集, 3-3-1, 2022. [paper](/files/nakata22asjs_character_embedding.pdf)
