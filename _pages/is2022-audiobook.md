@@ -1,7 +1,7 @@
 ---
 title: 'Predicting VQVAE-based Character Acting Style from Quotation-Annotated Text for Audiobook Speech Synthesis'
 date: 2022-03-04
-permalink: /posts/is2022-audiobook/
+permalink: /is2022-audiobook/
 authour_profile: false
 related: false
 layout: speech-samples
