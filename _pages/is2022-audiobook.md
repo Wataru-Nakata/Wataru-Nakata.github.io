@@ -37,15 +37,11 @@ For these samples, each samples were first generated in a sentence levels, and t
 |:---|---:|---:|---:|---:|---:|---:|
 |Narration|
 <audio style='width: 100px;' src='/files/SSW11/gpe/ground_truth/test0.wav'></audio>|
-<audio src='/files/is2022/sentence-level/is2022-fs2_0.wav'></audio>|
-<audio src='/files/is2022/sentence-level/is2022-bert_0.wav'></audio>|
-<audio src='/files/is2022/sentence-level/is2022-rescnn-bert_0.wav'></audio>|
-<audio src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_0.wav'></audio>|
-<audio src='/files/is2022/sentence-level/is2022-all-attention_0.wav'></audio>|
-|Narration| 
-|Ant|
-|Ant girl|
-|Ant|
+<audio src='/files/is2022/sentence-level/is2022-fs2_0.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-bert_0.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-bert_0.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_0.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-all-attention_0.wav'></audio>|
+|Narration| <audio style='width: 100px;' src='/files/SSW11/gpe/ground_truth/test1.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-fs2_1.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-bert_1.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-bert_1.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_1.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-all-attention_1.wav'></audio>| 
+|Ant| <audio style='width: 100px;' src='/files/SSW11/gpe/ground_truth/test2.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-fs2_2.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-bert_2.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-bert_2.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_2.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-all-attention_2.wav'></audio>|
+|Ant girl| <audio style='width: 100px;' src='/files/SSW11/gpe/ground_truth/test3.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-fs2_3.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-bert_3.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-bert_3.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_3.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-all-attention_3.wav'></audio>|
+|Ant| <audio style='width: 100px;' src='/files/SSW11/gpe/ground_truth/test4.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-fs2_4.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-bert_4.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-bert_4.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_4.wav'></audio>| <audio src='/files/is2022/sentence-level/is2022-all-attention_4.wav'></audio>|
 
 ### Speech samples by character
 
