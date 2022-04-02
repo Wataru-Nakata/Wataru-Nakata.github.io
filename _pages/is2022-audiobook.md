@@ -21,7 +21,7 @@ layout: speech-samples
 
 
 ## Speech samples
-We have prepared 5 models for comparison.
+We have prepared 5 models for comparison:
 * FS2 (w/o BERT) : Ordinary FastSpeech2 
 * FS2: FastSpeech2 conditioned by cross-sentence context from RoBERTa
 * FS2-ResCNN: FS2 conditioned by ResCNN features from ground truth speech
@@ -29,7 +29,7 @@ We have prepared 5 models for comparison.
 * FS2-character: FS2 conditioned by fictional character embeddings.
 * FS2-all: Proposed model.
 
-For details about each models, please refer our paper.
+For details about each models, please refer to our paper.
 ### Speech in dialogues 
 For these samples, each samples were first generated in a sentence levels, and then concatenated into a chapter level with 400ms silence.
 Note that models shown in <span style="color: red">red colors</span> takes ground truth speech as input during inference. They are shown as a reference and comparing these models to others is not appropriate.
