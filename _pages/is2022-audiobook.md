@@ -2,37 +2,53 @@
 title: 'Predicting VQVAE-based Character Acting Style from Quotation-Annotated Text for Audiobook Speech Synthesis'
 date: 2022-03-04
 permalink: /is2022-audiobook/
-authour_profile: false
+author_profile: false
 related: false
 layout: speech-samples
 ---
 
 
-## Predicting VQVAE-based Character Acting Style from Quotation-Annotated Text for Audiobook Speech Synthesis
-論文は[こちら](https://wataru-nakata.github.io/files/nakata21sp_vqvae_audiobook.pdf)
+## Speech samples for "Predicting VQVAE-based Character Acting Style from Quotation-Annotated Text for Audiobook Speech Synthesis"
 
-### 著者:
-* [中田亘](https://wataru-nakata.github.io)
-* [郡山知樹](https://hyama5.github.io/index-j.html)
-* [齋藤佑樹](http://sython.org/)
-* [高道慎之介](https://sites.google.com/site/shinnosuketakamichi/home)
-* [井島勇祐](https://sites.google.com/view/yskijm/profile)
-* [増村亮](https://sites.google.com/site/ryomasumuraweb/home)
-* [猿渡洋](https://researchmap.jp/read0102891)
+### Authors:
+* [Wataru Nakata](https://wataru-nakata.github.io)
+* [Tomoki Koriyama](https://hyama5.github.io/index-j.html)
+* [Yuki Saito](http://sython.org/)
+* [Shinnosuke Takamichi](https://sites.google.com/site/shinnosuketakamichi/home)
+* [Ijima Yusuke](https://sites.google.com/view/yskijm/profile)
+* [Ryo Masumura](https://sites.google.com/site/ryomasumuraweb/home)
+* [Hiroshi Saruwatari](https://researchmap.jp/read0102891)
 
 
-## 音声サンプル
+## Speech samples
+We have prepared 5 models for comparison.
+* FS2 (w/o BERT) : Ordinary FastSpeech2 
+* FS2: FastSpeech2 conditioned by cross-sentence context from RoBERTa
+* FS2-ResCNN: FS2 conditioned by ResCNN features from ground truth speech
+* FS2-ResCNN-VQ: FS2 conditioned by vector quantized ResCNN features from ground truth speech
+* FS2-character: FS2 conditioned by fictional character embeddings.
+* FS2-all: Proposed model.
 
-### 連続した文章の合成
+For details about each models, please refer our paper.
+### Speech in dialogues 
+For these samples, each samples were first generated in a sentence levels, and then concatenated into a chapter level with 400ms silence.
 
-| Ground Truth | Baseline | Proposed |
-|:---:|:---:|:---:|
-| <audio style="width: 100px;" src='/files/SSW11/gpe/ground_truth/22_05khz_test37.wav' controls preload></audio> | <audio style="width: 100px;" src='/files/sp-vqvae/Baseline/1131.wav' controls preload></audio> | <audio style="width: 100px;" src='/files/sp-vqvae/proposed/n_arikun_1131.wav' controls preload></audio> |
-| <audio style="width: 100px;" src='/files/SSW11/gpe/ground_truth/22_05khz_test38.wav' controls preload></audio> | <audio style="width: 100px;" src='/files/sp-vqvae/Baseline/1132.wav' controls preload></audio> | <audio style="width: 100px;" src='/files/sp-vqvae/proposed/n_arikun_1132.wav' controls preload></audio> |
-| <audio style="width: 100px;" src='/files/SSW11/gpe/ground_truth/22_05khz_test39.wav' controls preload></audio> | <audio style="width: 100px;" src='/files/sp-vqvae/Baseline/1133.wav' controls preload></audio> | <audio style="width: 100px;" src='/files/sp-vqvae/proposed/n_arikun_1133.wav' controls preload></audio> |
+| Character name | Ground truth | FS2 (w/o BERT) | FS2 | FS2-ResCNN | FS2-ResCNN-VQ | FS2-character | FS2-all | 
+|:---|---:|---:|---:|---:|---:|---:|
+|Narration|
+<audio style='width: 100px;' src='/files/SSW11/gpe/ground_truth/test0.wav'></audio>|
+<audio src='/files/is2022/sentence-level/is2022-fs2_0.wav'></audio>|
+<audio src='/files/is2022/sentence-level/is2022-bert_0.wav'></audio>|
+<audio src='/files/is2022/sentence-level/is2022-rescnn-bert_0.wav'></audio>|
+<audio src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_0.wav'></audio>|
+<audio src='/files/is2022/sentence-level/is2022-all-attention_0.wav'></audio>|
+|Narration| 
+|Ant|
+|Ant girl|
+|Ant|
 
-### 異なるキャラクター演技スタイルによる音声の変化
+### Speech samples by character
 
-| コードブックID 0 | コードブックID 20 | コードブックID 47 |
+| Ant |  | コードブックID 47 |
 |:---:|:---:|:---:|
 | <audio style="width: 100px;" src='/files/sp-vqvae/proposed/n_arikun_1094_arikun_chapt000_parag000_style000_000_JKAC_0.wav' controls preload></audio> | <audio style="width: 100px;" src='/files/sp-vqvae/proposed/n_arikun_1094_arikun_chapt000_parag000_style000_000_JKAC_20.wav' controls preload></audio> | <audio style="width: 100px;" src='/files/sp-vqvae/proposed/n_arikun_1094_arikun_chapt000_parag000_style000_000_JKAC_47.wav' controls preload></audio> | 
