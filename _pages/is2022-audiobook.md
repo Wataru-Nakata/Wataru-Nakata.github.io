@@ -19,6 +19,8 @@ layout: speech-samples
 * [Ryo Masumura](https://sites.google.com/site/ryomasumuraweb/home)
 * [Hiroshi Saruwatari](https://researchmap.jp/read0102891)
 
+### Presentation slide
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRpzMgpchE9EPuoYxL73v99LJK0dFlaDLHRQJW4OrNAuvhl7oSJ_C8u9CRZ5TmcJtL7uc29XqJIZEn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Speech samples
 We have prepared 5 models for comparison:
@@ -41,6 +43,7 @@ Note that models shown in <span style="color: red">red colors</span> takes groun
 |Ant| <audio style='width: 100px;' controls preload src='/files/SSW11/gpe/ground_truth/test2.wav'></audio>| <audio style='width: 100px;' controls preload src='/files/is2022/sentence-level/is2022-fs2_2.wav'></audio>| <audio style='width: 100px;' controls preload src='/files/is2022/sentence-level/is2022-bert_2.wav'></audio>| <audio style='width: 100px;' controls preload src='/files/is2022/sentence-level/is2022-rescnn-bert_2.wav'></audio>| <audio style='width: 100px;' controls preload src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_2.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-input-character_2.wav'></audio>| <audio style='width: 100px;' controls preload src='/files/is2022/sentence-level/is2022-all-attention_2.wav'></audio>|
 |Ant girl| <audio controls preload style='width: 100px;' src='/files/SSW11/gpe/ground_truth/test3.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-fs2_3.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-bert_3.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-rescnn-bert_3.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_3.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-input-character_3.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-all-attention_3.wav'></audio>| 
 |Ant| <audio controls preload style='width:100px;'  src='/files/SSW11/gpe/ground_truth/test4.wav'></audio>| <audio controls preload style='width:100px;' src='/files/is2022/sentence-level/is2022-fs2_4.wav'></audio>| <audio controls preload style='width:100px;' src='/files/is2022/sentence-level/is2022-bert_4.wav'></audio>| <audio controls preload style='width:100px;' src='/files/is2022/sentence-level/is2022-rescnn-bert_4.wav'></audio>| <audio controls preload style='width:100px;' src='/files/is2022/sentence-level/is2022-rescnn-vq-bert_4.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-input-character_4.wav'></audio>| <audio controls preload style='width: 100px;' src='/files/is2022/sentence-level/is2022-all-attention_4.wav'></audio>|
+
 
 <!-- ### Speech samples by character
 
