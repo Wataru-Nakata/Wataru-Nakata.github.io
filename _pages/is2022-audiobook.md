@@ -20,7 +20,7 @@ layout: speech-samples
 * [Hiroshi Saruwatari](https://researchmap.jp/read0102891)
 
 ### Presentation slide
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRpzMgpchE9EPuoYxL73v99LJK0dFlaDLHRQJW4OrNAuvhl7oSJ_C8u9CRZ5TmcJtL7uc29XqJIZEn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRpzMgpchE9EPuoYxL73v99LJK0dFlaDLHRQJW4OrNAuvhl7oSJ_C8u9CRZ5TmcJtL7uc29XqJIZEn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Speech samples
 We have prepared 5 models for comparison:
