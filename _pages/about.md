@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-B.E. Junior Student at Shibanuma Lab, UTokyo.
+B.E. Senior Student at Shibanuma Lab, UTokyo.
 # Research Interests
 * Speech Synthesis
 * Natural Language Processing
