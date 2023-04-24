@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 # My paper/achievement awards
+1. 日本音響学会 学生優秀発表賞 / Acoustic society of Japan, Excellent presentation award 2022.
 1. 4th STI-Gigaku. Best Poster Award 2019.
 1. 3rd STI-Gigaku. Best Poster Award 2018.
 

@@ -23,7 +23,7 @@ author_profile: true
 
 # Domestic Conferences -Non Reviewed- （国内学会）
 1. 原田 そら, **中田 亘**, 高道 慎之介, 齋藤 佑樹, 齋藤 康之, and 猿渡 洋, “避難呼びかけ音声の持つ緊急性の分析と音声合成への適用の検討,” in 日本音響学会第148回(2022年秋季)研究発表会, Sep. 2022.
-1. **中田 亘**, 辛 德泰, 佐伯 高明, 郡山 知樹, 高道 慎之介, and 猿渡 洋, “UTMOS：VoiceMOS Challenge2022 に向けたUTokyo-Sarulab チームの自然性 MOS 予測モデル ,” in 日本音響学会第148回(2022年秋季)研究発表会, Sep. 2022.
+1. **中田 亘**, 辛 德泰, 佐伯 高明, 郡山 知樹, 高道 慎之介, and 猿渡 洋, “UTMOS：VoiceMOS Challenge2022 に向けたUTokyo-Sarulab チームの自然性 MOS 予測モデル ,” in 日本音響学会第148回(2022年秋季)研究発表会, Sep. 2022. [paper](/files/voicemos22asja.pdf) 学生優秀発表賞
 1. **中田亘**，郡山知樹，齋藤 佑樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"キャラクタ分散表現を用いた演じ分けを実現するオーディオブック音声合成" 日本音響学会2022年春季研究発表会講演論文集, 3-3-1, 2022. [paper](/files/nakata22asjs_character_embedding.pdf)
 1. **中田亘**，郡山知樹，齋藤 佑樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"VQVAEによって獲得されたキャラクター演技スタイルに基づく多話者オーディオブック音声合成" 第23回音声言語シンポジウムおよび第8回自然言語処理シンポジウム, -, 2021. [paper](/files/nakata21sp_vqvae_audiobook.pdf) [slides](/files/nakata21sp_vqvae_slides.pdf) [音声サンプル](/posts/2022/03/04/sp22)
 1. **中田亘**，郡山知樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"文横断コンテキストを用いた日本語オーディオブック音声合成の評価" 日本音響学会2021年秋季研究発表会講演論文集, 1-3-8, 2021. [slides](/files/asja2021_nakata.pdf)
