@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 # International Conferences 
+1. A. Watanabe, S. Takamichi, Y. Saito, **W. Nakata**, D. Xin, and H. Saruwatari, “Coco-Nut: Corpus of Japanese Utterance and Voice Characteristics Description for Prompt-based Control,” in Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), Dec. 2023, pp. 1–8.
 1. T. Saeki\*, D. Xin\*, **W. Nakata\***, T. Koriyama, S. Takamichi, and H. S. (*E. contribution), “UTMOS: UTokyo-SaruLab System for VoiceMOS Challenge 2022,” in Proceedings of Interspeech, Sep. 2022.  [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/saeki22c_interspeech.pdf)  [code](https://github.com/sarulab-speech/UTMOS22)
 1. **W. Nakata**, T. Koriyama, S. Takamichi, Y. Saito, Y. Ijima, R. Masumura, and H. Saruwatari, “Predicting VQVAE-based Character Acting Style from Quotation-Annotated Text for Audiobook Speech Synthesis,” in Proceedings of Interspeech, Sep. 2022. [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/nakata22_interspeech.pdf) [Speech samples](https://wataru-nakata.github.io/is2022-audiobook/)
 1. S. Takamichi, **W. Nakata**, N. Tanji, and H. Saruwatari, “J-MAC: Japanese multi-speaker audiobook corpus for speech synthesis,” in Proceedings of Interspeech, Sep. 2022. (accepted) [paper](https://arxiv.org/abs/2201.10896)
@@ -22,6 +23,9 @@ author_profile: true
 
 
 # Domestic Conferences -Non Reviewed- （国内学会）
+1. 渡邊 亞椰, 高道 慎之介, 齋藤 佑樹, **中田 亘**, 辛 徳泰, and 猿渡 洋, “対照学習モデルによる音声-声質表現文の埋め込み表現獲得,” in 日本音響学会第151回(2024年春季)研究発表会, Mar. 2024. 
+1. **中田 亘**, 佐伯 高明, 齋藤 佑樹, 高道 慎之介, and 猿渡 洋, “NecoBERT：音声合成のために事前学習された自己教師あり学習モデル,” in 日本音響学会第151回(2024年春季)研究発表会, Mar. 2024. [PDF](https://sython.org/papers/ASJ/nakata2024asjs.pdf) [Poster](https://sython.org/papers/ASJ/nakata2024asjs_poster.pdf)
+1. **中田 亘**, 佐伯 高明, 齋藤 佑樹, 高道 慎之介, 猿渡 洋, "自己教師ありモデル特徴量から音声波形を生成する ニューラルボコーダの実験的評価," 日本音響学会 2023年秋季研究発表会 講演論文集, 2-Q-29, pp. 1243--1246, 2023年9月. [PDF](https://sython.org/papers/ASJ/nakata2024asjs.pdf) [Poster](https://sython.org/papers/ASJ/nakata2023asja.pdf)
 1. 原田 そら, **中田 亘**, 高道 慎之介, 齋藤 佑樹, 齋藤 康之, and 猿渡 洋, “避難呼びかけ音声の持つ緊急性の分析と音声合成への適用の検討,” in 日本音響学会第148回(2022年秋季)研究発表会, Sep. 2022.
 1. **中田 亘**, 辛 德泰, 佐伯 高明, 郡山 知樹, 高道 慎之介, and 猿渡 洋, “UTMOS：VoiceMOS Challenge2022 に向けたUTokyo-Sarulab チームの自然性 MOS 予測モデル ,” in 日本音響学会第148回(2022年秋季)研究発表会, Sep. 2022. [paper](/files/voicemos22asja.pdf) 学生優秀発表賞
 1. **中田亘**，郡山知樹，齋藤 佑樹，高道慎之介，井島 勇祐，増村 亮，猿渡 洋，"キャラクタ分散表現を用いた演じ分けを実現するオーディオブック音声合成" 日本音響学会2022年春季研究発表会講演論文集, 3-3-1, 2022. [paper](/files/nakata22asjs_character_embedding.pdf)

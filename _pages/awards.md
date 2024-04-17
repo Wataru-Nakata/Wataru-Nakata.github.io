@@ -4,6 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+
 # My paper/achievement awards
 1. 日本音響学会 学生優秀発表賞 / Acoustic society of Japan, Excellent presentation award 2022.
 1. 4th STI-Gigaku. Best Poster Award 2019.
@@ -15,3 +16,6 @@ author_profile: true
 1. NICTオープンハウス2018 優秀研究発表賞 / NICT Open House 2018, Best Research Presentation Award 2018.
 1. 第７回起業家甲子園 審査員特別賞 / 7th Entrepreneur Contest, Special Recognition Award, 2018.
 1. 高専ロボコン2017全国大会　アイデア倒れ賞 / KOSEN ROBOCON National Competition 2017, Excellent Idea Award.  2017.
+
+# Competitive funds
+1. 令和5年度覚醒プロジェクト/AIST KAKUSEI project (FY2023)
