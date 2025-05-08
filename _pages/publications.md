@@ -14,8 +14,15 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+# preprints
+1. **Nakata, W.**, Yamauchi, K., Yang, D., Hyodo, H., & Saito, Y. (2024). UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge. arXiv preprint arXiv:2403.13720.
+1. Watanabe, A., Takamichi, S., Saito, Y., **Nakata, W**., Xin, D., & Saruwatari, H. (2024). Building speech corpus with diverse voice characteristics for its prompt-based representation. ArXiv, abs/2403.13353.
 # International Conferences 
-1. 
+
+1. E. Tsunoo, Y. Saito, **W. Nakata** and H. Saruwatari, "Causal Speech Enhancement with Predicting Semantics based on Quantized Self-supervised Learning Features," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5.
+1. Yamauchi, K., **Nakata, W.**, Saito, Y., & Saruwatari, H. Decoding Strategy with Perceptual Rating Prediction for Language Model-Based Text-to-Speech Synthesis. In Audio Imagination: NeurIPS 2024 Workshop AI-Driven Speech, Music, and Sound Generation.
+1. **W. Nakata**, T. Saeki, Y. Saito, S. Takamichi and H. Saruwatari, "NecoBERT: Self-Supervised Learning Model Trained by Masked Language Modeling on Rich Acoustic Features Derived from Neural Audio Codec," 2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Macau, Macao, 2024, pp. 1-6
+1. K. Baba, **W. Nakata**, Y. Saito and H. Saruwatari, "The T05 System for the voicemos challenge 2024: Transfer Learning from Deep Image Classifier to Naturalness MOS Prediction of High-Quality Synthetic Speech," 2024 IEEE Spoken Language Technology Workshop (SLT), Macao, 2024, pp. 818-824
 1. A. Watanabe, S. Takamichi, Y. Saito, **W. Nakata**, D. Xin, and H. Saruwatari, “Coco-Nut: Corpus of Japanese Utterance and Voice Characteristics Description for Prompt-based Control,” in Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), Dec. 2023, pp. 1–8.
 1. T. Saeki\*, D. Xin\*, **W. Nakata\***, T. Koriyama, S. Takamichi, and H. S. (*E. contribution), “UTMOS: UTokyo-SaruLab System for VoiceMOS Challenge 2022,” in Proceedings of Interspeech, Sep. 2022.  [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/saeki22c_interspeech.pdf)  [code](https://github.com/sarulab-speech/UTMOS22)
 1. **W. Nakata**, T. Koriyama, S. Takamichi, Y. Saito, Y. Ijima, R. Masumura, and H. Saruwatari, “Predicting VQVAE-based Character Acting Style from Quotation-Annotated Text for Audiobook Speech Synthesis,” in Proceedings of Interspeech, Sep. 2022. [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/nakata22_interspeech.pdf) [Speech samples](https://wataru-nakata.github.io/is2022-audiobook/)
@@ -40,3 +47,6 @@ author_profile: true
 1. **中田亘**，土田泰子，外山茂浩，"深層学習を用いた定量的な授業評価方法の検討" 令和元年（第29回）電気学会東京支部新潟支所研究発表会  2019.  
 1. 樋口翔太,佐藤雅,高松哲也,藤澤郁也,**中田亘**,池田富士雄,村上祐貴：排水ボーリングにおける先端位置推定装置の開発，高専シンポジウム ，PF-34, 2019.
 1. **Wataru NAKATA**, Masaki YASUHARA, Shohei YANO, "Development of a Low Cost Water-Level Sensor for Paddy Field and Based on Embedded System and IoT" 3rd STI-Gigaku 2018. *Best Poster Award* 
+
+# Tutorial
+1. Yuki Saito, Shinnosuke Takamichi, and **Wataru Nakata**, "Emerging topics for speech synthesis: versatility and efficiency," APSIPA ASC 2024, Macau, China, Dec. 2024. [slide](http://sython.org/papers/APSIPA/APSIPA24tutorial_tts.pdf)
