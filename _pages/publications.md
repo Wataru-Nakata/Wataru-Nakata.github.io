@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 # International Conferences 
+1. 
 1. A. Watanabe, S. Takamichi, Y. Saito, **W. Nakata**, D. Xin, and H. Saruwatari, “Coco-Nut: Corpus of Japanese Utterance and Voice Characteristics Description for Prompt-based Control,” in Proceedings of IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), Dec. 2023, pp. 1–8.
 1. T. Saeki\*, D. Xin\*, **W. Nakata\***, T. Koriyama, S. Takamichi, and H. S. (*E. contribution), “UTMOS: UTokyo-SaruLab System for VoiceMOS Challenge 2022,” in Proceedings of Interspeech, Sep. 2022.  [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/saeki22c_interspeech.pdf)  [code](https://github.com/sarulab-speech/UTMOS22)
 1. **W. Nakata**, T. Koriyama, S. Takamichi, Y. Saito, Y. Ijima, R. Masumura, and H. Saruwatari, “Predicting VQVAE-based Character Acting Style from Quotation-Annotated Text for Audiobook Speech Synthesis,” in Proceedings of Interspeech, Sep. 2022. [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2022/nakata22_interspeech.pdf) [Speech samples](https://wataru-nakata.github.io/is2022-audiobook/)

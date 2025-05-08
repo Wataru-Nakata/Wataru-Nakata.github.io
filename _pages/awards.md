@@ -19,3 +19,4 @@ author_profile: true
 
 # Competitive funds
 1. 令和5年度覚醒プロジェクト/AIST KAKUSEI project (FY2023)
+1. 日本学術振興会 DC1/ JSPS DC1 (2025--2028)
