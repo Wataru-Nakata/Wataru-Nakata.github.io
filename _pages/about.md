@@ -27,8 +27,8 @@ PhD student at Saruwatari-Saito Lab, UTokyo.
   *2014 – 2020*
 
 # Work experiences
-- **Student Researcher @ Google DeepMind, Tokyo, Japan**  
-  *Apr 2025 – Present*
+- **Student Researcher @ Google DeepMind, Tokyo, Japan**
+  *Apr 2025 – Sep 2025*
 
 - **Research fellow (DC1)@Japan Society for the Promotion of Science, Japan**  
   *Apr 2025 – Present*
